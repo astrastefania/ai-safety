@@ -45,6 +45,7 @@ Feel free to contact on LinkedIn https://www.linkedin.com/in/astrastefania
 * Open Philantrophy (grant) https://www.openphilanthropy.org/how-to-apply-for-funding
 * Democratic Inputs to AI (grant) https://openai.com/blog/democratic-inputs-to-ai
 * Answering question on AI Safety https://aisafety.info
+* European Network for AI Safety https://enais.co
 
 **Other resoruces and updates**  
 
