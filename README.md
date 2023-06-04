@@ -3,9 +3,9 @@
 
 ### "Introduction to AI Safety, Let's be ready before it's too late!"
 PyCon Italia 2023 https://pycon.it/en  
-Abstract https://pycon.it/en/event/introduction-to-ai-safety-lets-be-ready-before-its-too-late 
-Video https://www.youtube.com/live/TCvac_wc4ow?feature=share&t=17013  
-Slides 
+Abstract https://pycon.it/en/event/introduction-to-ai-safety-lets-be-ready-before-its-too-late  
+Video https://www.youtube.com/live/TCvac_wc4ow?feature=share&t=17013   
+Slides https://github.com/astrastefania/ai-safety/blob/main/20230528_PyConItalia_Delprete_AI_Safety.pdf  
 Feel free to contact on LinkedIn https://www.linkedin.com/in/astrastefania 
 
 **Links in slides**  
@@ -50,7 +50,7 @@ Feel free to contact on LinkedIn https://www.linkedin.com/in/astrastefania
 
 *More statements for AI Risk*
 * Statement of AI Risk https://www.safe.ai/statement-on-ai-risk
-* FLI on "A Statement on AI Risk" and Next Steps (May 30,2023) https://futureoflife.org/ai-policy/fli-on-a-statement-on-ai-risk-and-next-steps
+* FLI on "A Statement on AI Risk" and Next Steps (May 30, 2023) https://futureoflife.org/ai-policy/fli-on-a-statement-on-ai-risk-and-next-steps
 * "Our approach to AI safety" by OpenAI https://openai.com/blog/our-approach-to-ai-safety
 
 *More articles by 80,000 Hours*
