@@ -16,3 +16,7 @@ BiDigital Biella, 7 ottobre 2023: https://bidigital.it
 Presentazione: [link Google Slides](https://docs.google.com/presentation/d/1PkwA3V55Uzf5ltpqAubfFExHnmF6JnZ5/edit#slide=id.p2)  
 Form per espressione d'interesse per prossime iniziative: https://bit.ly/AIS_italy  
 
+
+## "Quali sono i rischi dell'intelligenza artificiale e cosa possiamo fare per prevenirli?"
+Linux Day Torino, 28 ottobre 2023: https://linuxdaytorino.org
+Presentazione: coming soon
