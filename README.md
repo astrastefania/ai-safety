@@ -3,6 +3,7 @@
 
 ### Contacts
 Feel free to contact me on LinkedIn https://www.linkedin.com/in/astrastefania 
+Form per espressione d'interesse per prossime iniziative in Italia: https://bit.ly/AIS_italy  
 
 ---
 ### "Introduction to AI Safety. Let's be ready before it's too late!" EN`
@@ -16,7 +17,6 @@ Video https://youtu.be/GqlSIJYOpM0
 ### "Hai mai riflettuto sui rischi dell’IA? Prevenire è meglio che curare" IT
 BiDigital Biella, 7 ottobre 2023: https://bidigital.it  
 Presentazione: [link Google Slides](https://docs.google.com/presentation/d/1PkwA3V55Uzf5ltpqAubfFExHnmF6JnZ5/edit#slide=id.p2)  
-Form per espressione d'interesse per prossime iniziative: https://bit.ly/AIS_italy  
 Video (inizio tagliato) https://www.youtube.com/live/Gf1OkqIPo_w?si=5wZxmMBpaJFUFK2B&t=8859
 
 ---
