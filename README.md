@@ -4,6 +4,7 @@
 ### Contacts
 Feel free to contact me on LinkedIn https://www.linkedin.com/in/astrastefania   
 Form per espressione d'interesse per prossime iniziative in Italia: https://bit.ly/AIS_italy  
+Il 28 novembre alle 18:30 ci sarà un panel su AI Safety in diretta YouTube youtube.com/live/k4irIPGuaCo
 
 ---
 ### "Introduction to AI Safety. Let's be ready before it's too late!" EN`
