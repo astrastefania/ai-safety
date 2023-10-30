@@ -22,4 +22,4 @@ Video (inizio tagliato) https://www.youtube.com/live/Gf1OkqIPo_w?si=5wZxmMBpaJFU
 ---
 ### "Quali sono i rischi dell'intelligenza artificiale e cosa possiamo fare per prevenirli?" IT
 Linux Day Torino, 28 ottobre 2023: https://linuxdaytorino.org
-Presentazione: coming soon
+Presentazione: https://bit.ly/LinuxDay_AIS
