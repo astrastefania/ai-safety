@@ -4,7 +4,6 @@
 ### Contacts
 Feel free to contact me on LinkedIn https://www.linkedin.com/in/astrastefania   
 Form per espressione d'interesse per prossime iniziative in Italia: https://bit.ly/AIS_italy  
-Panel su AI Safety, 28/11 alle 18:30, in diretta YouTube (puoi anticipare le domande nel form sopra): https://youtube.com/live/k4irIPGuaCo
 
 ---
 ### "Introduction to AI Safety. Let's be ready before it's too late!" EN`
@@ -23,3 +22,9 @@ Video (inizio tagliato) https://www.youtube.com/live/Gf1OkqIPo_w?si=5wZxmMBpaJFU
 ### "Quali sono i rischi dell'intelligenza artificiale e cosa possiamo fare per prevenirli?" IT
 Linux Day Torino, 28 ottobre 2023: https://linuxdaytorino.org  
 Presentazione: https://bit.ly/LinuxDay_AIS
+
+---
+### "Reducing the risks of open source AI models and optimizing upsides" EN
+Co-organizing and facilitating the panel at FOSDEM 2023
+Abstract and video https://fosdem.org/2024/schedule/event/fosdem-2024-3507-reducing-the-risks-of-open-source-ai-models-and-optimizing-upsides
+
