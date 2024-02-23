@@ -9,10 +9,9 @@ Panel su AI Safety, 28/11 alle 18:30, in diretta YouTube (puoi anticipare le dom
 ---
 ### "Introduction to AI Safety. Let's be ready before it's too late!" EN`
 PyCon Italia 2023, May 28: https://pycon.it/en  
-Abstract: https://pycon.it/en/event/introduction-to-ai-safety-lets-be-ready-before-its-too-late  
-Slides https://github.com/astrastefania/ai-safety/blob/main/20230528_PyConItalia_Delprete_AI_Safety.pdf  
+Abstract: https://2023.pycon.it/en/event/introduction-to-ai-safety-lets-be-ready-before-its-too-late
+Video https://youtu.be/GqlSIJYOpM0   Slides https://github.com/astrastefania/ai-safety/blob/main/20230528_PyConItalia_Delprete_AI_Safety.pdf  
 A lot of links here: https://github.com/astrastefania/ai-safety/blob/main/20230528_PyConItalia_links
-Video https://youtu.be/GqlSIJYOpM0   
 
 ---
 ### "Hai mai riflettuto sui rischi dell’IA? Prevenire è meglio che curare" IT
